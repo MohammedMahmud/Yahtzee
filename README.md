@@ -1,4 +1,7 @@
-# Yahtzee
+## Try it out (https://yahtzee-reactjs-app.herokuapp.com/)
+<br>
+
+# Yahtzee 
 This is a simple implementation of the classic dice game, Yahtzee, built using React. Players roll dice to create specific combinations and score points.
 
 # Table of Contents
