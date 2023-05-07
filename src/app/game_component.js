@@ -181,3 +181,4 @@ function Main_call(){
     Chance();
 }
 Main_call();
+
